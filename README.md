@@ -11,8 +11,10 @@
 ## 📋TODO List
 
 - [x] Initialize this project
-- [ ] Implement image and text encoders
-- [ ] Implement CLIP training loss
+- [x] Implement image and text encoders (via `transformers`)
+- [x] Implement CLIP training loss
+- [x] Implement CLIP trainer
+- [ ] Support distributed training.
 
 ## 👏Acknowledgement
 
